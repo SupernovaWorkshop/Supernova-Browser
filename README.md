@@ -5,6 +5,7 @@ Supernova Browser is a web proxy designed for unblocking websites at school and 
 npm install 
 npm start
 ```
+or
 ```bash
 pnpm install
 pnpm start
