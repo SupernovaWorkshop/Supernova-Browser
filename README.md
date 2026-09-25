@@ -12,7 +12,3 @@ pnpm start
 ```
 # Contributions
 Thank you Interstellar for the design! --> github.com/Useinterstellar/Interstellar
-<a href="https://vercel.com">
-  <img src="https://vercel.com" alt="Deploy with Vercel">
-</a>
-
